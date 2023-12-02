@@ -29,7 +29,7 @@ namespace ChessBoard_round_2
             }
 
                 Console.WriteLine("Δ");
-            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello! ok");
              
             
         }
